@@ -52,6 +52,7 @@ $field.Values | Outfile -FilePath "C:\Script\Input\Out.txt"
 
 $driver.Quit()
 
+# put the extracted DATA to new Webpage
 #webdriver for edge
 $driverPath = "C:\Scripts\Input"
 
